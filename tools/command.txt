@@ -1,0 +1,1 @@
+python3 vos_inference.py --sam2_checkpoint /p/lava/morteza/sam2/checkpoints/sam2.1_hiera_base_plus.pt --base_video_dir /p/lava/morteza/sam2/datasets/longSam/JPEGImages --input_mask_dir /p/lava/morteza/sam2/datasets/longSam/Annotations --output_mask_dir out/ --video_list_file file.txt
